@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/SQL-Editor-console/static/css/main.18067d3b.chunk.css",
+    "main.js": "/SQL-Editor-console/static/js/main.d7c841e2.chunk.js",
+    "main.js.map": "/SQL-Editor-console/static/js/main.d7c841e2.chunk.js.map",
+    "runtime-main.js": "/SQL-Editor-console/static/js/runtime-main.fb3bafe1.js",
+    "runtime-main.js.map": "/SQL-Editor-console/static/js/runtime-main.fb3bafe1.js.map",
+    "static/js/2.0e58c581.chunk.js": "/SQL-Editor-console/static/js/2.0e58c581.chunk.js",
+    "static/js/2.0e58c581.chunk.js.map": "/SQL-Editor-console/static/js/2.0e58c581.chunk.js.map",
+    "static/js/3.072d0011.chunk.js": "/SQL-Editor-console/static/js/3.072d0011.chunk.js",
+    "static/js/3.072d0011.chunk.js.map": "/SQL-Editor-console/static/js/3.072d0011.chunk.js.map",
+    "static/js/4.e17ec572.chunk.js": "/SQL-Editor-console/static/js/4.e17ec572.chunk.js",
+    "static/js/4.e17ec572.chunk.js.map": "/SQL-Editor-console/static/js/4.e17ec572.chunk.js.map",
+    "static/css/5.008de293.chunk.css": "/SQL-Editor-console/static/css/5.008de293.chunk.css",
+    "static/js/5.440f0b32.chunk.js": "/SQL-Editor-console/static/js/5.440f0b32.chunk.js",
+    "static/js/5.440f0b32.chunk.js.map": "/SQL-Editor-console/static/js/5.440f0b32.chunk.js.map",
+    "static/css/6.008de293.chunk.css": "/SQL-Editor-console/static/css/6.008de293.chunk.css",
+    "static/js/6.2d16a959.chunk.js": "/SQL-Editor-console/static/js/6.2d16a959.chunk.js",
+    "static/js/6.2d16a959.chunk.js.map": "/SQL-Editor-console/static/js/6.2d16a959.chunk.js.map",
+    "static/css/7.008de293.chunk.css": "/SQL-Editor-console/static/css/7.008de293.chunk.css",
+    "static/js/7.80729111.chunk.js": "/SQL-Editor-console/static/js/7.80729111.chunk.js",
+    "static/js/7.80729111.chunk.js.map": "/SQL-Editor-console/static/js/7.80729111.chunk.js.map",
+    "static/css/8.008de293.chunk.css": "/SQL-Editor-console/static/css/8.008de293.chunk.css",
+    "static/js/8.7d8f5911.chunk.js": "/SQL-Editor-console/static/js/8.7d8f5911.chunk.js",
+    "static/js/8.7d8f5911.chunk.js.map": "/SQL-Editor-console/static/js/8.7d8f5911.chunk.js.map",
+    "index.html": "/SQL-Editor-console/index.html",
+    "static/css/5.008de293.chunk.css.map": "/SQL-Editor-console/static/css/5.008de293.chunk.css.map",
+    "static/css/6.008de293.chunk.css.map": "/SQL-Editor-console/static/css/6.008de293.chunk.css.map",
+    "static/css/7.008de293.chunk.css.map": "/SQL-Editor-console/static/css/7.008de293.chunk.css.map",
+    "static/css/8.008de293.chunk.css.map": "/SQL-Editor-console/static/css/8.008de293.chunk.css.map",
+    "static/css/main.18067d3b.chunk.css.map": "/SQL-Editor-console/static/css/main.18067d3b.chunk.css.map",
+    "static/js/4.e17ec572.chunk.js.LICENSE.txt": "/SQL-Editor-console/static/js/4.e17ec572.chunk.js.LICENSE.txt",
+    "static/media/loader.svg": "/SQL-Editor-console/static/media/loader.a709950a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3bafe1.js",
+    "static/js/4.e17ec572.chunk.js",
+    "static/css/main.18067d3b.chunk.css",
+    "static/js/main.d7c841e2.chunk.js"
+  ]
+}
