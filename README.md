@@ -1,8 +1,8 @@
 # SQL Editor/Console
 
-Created a SQL editor which generated data fetched from the database.
+Created a SQL editor which let user fetch data from the database with the use of some predefined queries.
 
-Application Link: https://aryan-master.github.io/SQL-Editor-console/
+Published Application Link: https://aryan-master.github.io/SQL-Editor-console/
 
 ## ⚙ Libraries Used
 
