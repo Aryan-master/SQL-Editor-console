@@ -34,7 +34,7 @@ const Navbar = React.memo(({ setQuery, setValue, isOpen, setIsOpen }) => {
                   />
                 </svg>
                 <a className="text-white font-bold align-middle" href="/">
-                  <img src="https://media.glassdoor.com/sqll/1028768/atlan-squarelogo-1562153961882.png" width={'63.5px'} alt={'icon'}></img>
+                  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width={'63.5px'} alt={'icon'}></img>
                 </a>
               </div>
 
