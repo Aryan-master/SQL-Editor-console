@@ -8,7 +8,7 @@ const Footer = React.memo(({ isOpen }) => {
         isOpen ? "col-start-2" : "col-start-1"
       } col-end-3 row-start-4 row-end-5 bg-primary-dark text-white text-center py-5 atlancolor`}
     >
-      Created by{" "}
+      Developed by{" "}
       <a
         href="https://github.com/Aryan-master"
         target="_blank"
