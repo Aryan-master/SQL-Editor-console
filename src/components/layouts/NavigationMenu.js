@@ -33,14 +33,14 @@ const Navbar = React.memo(({ setQuery, setValue, isOpen, setIsOpen }) => {
                     clipRule="evenodd"
                   />
                 </svg>
-                <a className="text-white font-bold align-middle" href="/">
+                <a className="text-white font-bold align-middle" href="/SQL-Editor-console/">
                   <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width={'63.5px'} alt={'icon'}></img>
                 </a>
               </div>
 
               <a
                 className="text-gray-300 hover:text-white py-2 rounded-md text-sm font-medium"
-                href="https://github.com/"
+                href="https://github.com/Aryan-master/SQL-Editor-console"
                 target="_blank"
                 rel="noreferrer"
                 title="github repository"
