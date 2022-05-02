@@ -11,13 +11,13 @@ Application Link: https://aryan-master.github.io/SQL-Editor-console/
 
 ## 👨‍💻 App Features
 
-- User can get data of any of the predefined SQL queries either by using SQL Editor.\
-- User can also use slider menu to select perticular table and get result.\
-- User can search for a particular data among many records using the search bar.\
-- User can sort data directly by clicking the Table Headers title.\
-- User can see query runtime in milliseconds(ms).\
-- User can download the data in CSV and JSON Format.\
-- User can navigate to different pages using pagination.\
+- User can get data of any of the predefined SQL queries either by using SQL Editor.
+- User can also use slider menu to select perticular table and get result.
+- User can search for a particular data among many records using the search bar.
+- User can sort data directly by clicking the Table Headers title.
+- User can see query runtime in milliseconds(ms).
+- User can download the data in CSV and JSON Format.
+- User can navigate to different pages using pagination.
 
 # Predefined SQL Queries
 
