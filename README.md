@@ -4,7 +4,7 @@ Created a SQL editor which generated data fetched from the database.
 
 Application Link: https://aryan-master.github.io/SQL-Editor-console/
 
-## ⚙ Tech Stack
+## ⚙ Libraries Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -36,6 +36,12 @@ Results from [Lighthouse Chrome DevTools Report](https://developers.google.com/w
 ![sql-editor-lhreport1](https://user-images.githubusercontent.com/68116253/166192665-78622bbc-b06a-4267-9ab7-ea2853fc6b28.jpg)
 
 ![sql-editor-lhreport2](https://user-images.githubusercontent.com/68116253/166192602-a26477a0-a5c9-48db-97ed-a5e114e341d8.jpg)
+
+## Steps taken to Optimize
+
+- Import for react-ace editor was long tasks running during page load, Converted it to Lasy loaded component using `React.lazy()` for code-splitting and delaying it's loading.
+- Used `React.Memo()` to optimize the render performance of functional components.
+- Used `Lighthouse DevTools Extension` to find the performance issues and fix them using their actionable suggestion.
 
 ## Available Scripts
 
