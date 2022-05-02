@@ -37,7 +37,7 @@ Results from [Lighthouse Chrome DevTools Report](https://developers.google.com/w
 
 ![sql-editor-lhreport2](https://user-images.githubusercontent.com/68116253/166192602-a26477a0-a5c9-48db-97ed-a5e114e341d8.jpg)
 
-## Steps taken to Optimize
+## 🚀Steps taken to Optimize
 
 - Import for react-ace editor was long tasks running during page load, Converted it to Lasy loaded component using `React.lazy()` for code-splitting and delaying it's loading.
 - Used `React.Memo()` to optimize the render performance of functional components.
